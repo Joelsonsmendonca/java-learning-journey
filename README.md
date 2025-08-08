@@ -1,18 +1,21 @@
-## Getting Started
+# Minha Jornada de Aprendizado em Java
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Bem-vindo ao meu repositório de estudos em Java! Este espaço documenta meu progresso e os projetos desenvolvidos durante a **Minha jornada de apredizado em Java**.
 
-## Folder Structure
+## 🎯 Objetivo
 
-The workspace contains two folders by default, where:
+O objetivo deste repositório é construir e demonstrar uma base sólida e profissional em Java e no ecossistema Spring. A cada projeto, busco aprofundar meu conhecimento em desenvolvimento backend, arquitetura de software e boas práticas de engenharia, preparando-me para contribuir em projetos de alto nível no mercado de tecnologia brasileiro.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## 📂 Estrutura do Repositório
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+Cada pasta numerada corresponde a um projeto ou desafio de código específico da formação. Dentro de cada uma, há um `README.md` com detalhes sobre o desafio e a solução implementada.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## 🚀 Acompanhamento de Progresso
 
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+-   [x] 1. Fundamentos da Plataforma Java
+-   [x] 2. Escopo e Estruturas de Controle
+-   [ ] 3. Programação Orientada a Objetos em Java
+-   [ ] 4. Estruturas de Dados e API de Streams
+-   [ ] 5. Gerenciamento de Dependências (Maven/Gradle)
+-   [ ] 6. Qualidade de Código e Boas Práticas (SOLID, JUnit)
+-   [ ] 7. Introdução ao Spring Framework
